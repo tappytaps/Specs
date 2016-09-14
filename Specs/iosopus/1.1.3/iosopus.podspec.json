@@ -90,7 +90,8 @@
         "src/analysis.h",
         "src/mlp.h",
         "src/tansig_table.h",
-        "silk/float",
+        "silk/float/*",
+        "silk/arm/*"
         "celt/x86"
       ],
       "public_header_files": [
